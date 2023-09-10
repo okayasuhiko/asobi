@@ -3,6 +3,11 @@ git 練習用
 
 ## aaa
 aaaaa
---bash
+'''
 aa
---
+'''
+
+** okaokayasushiko**
+*oka
++oka
+1. oka
